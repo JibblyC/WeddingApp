@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WAP</string>
+    <string name="title_text">Days until the wedding</string>
+    <string name="days_left_string">0</string>
+    <string name="love_toast">Love</string>
+    <string name="toast_message">I Love you</string>
+</resources>
